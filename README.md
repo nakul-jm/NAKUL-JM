@@ -1,52 +1,161 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<!-- ===================== HERO ===================== -->
 
-###
+<div align="center">
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+# 👋 Hi, I'm Nakul JM
+
+### 🤖 AI & Machine Learning Student | Builder | Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+that+knows+when+it+can+be+trusted.;Learning+Machine+Learning+%7C+Deep+Learning;Turning+ideas+into+working+systems+%F0%9F%9A%80" />
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat" />
+</a>
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+## 🧠 About Me
+
+I'm a **2nd-year BTech Artificial Intelligence & Machine Learning student**
+who enjoys turning ideas into real working systems.
+
+I'm especially interested in:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 🔬 Deep Learning
+- 📊 Data & Probability
+- 🛠️ Building practical AI projects
+
+> **"Don't just build models. Build systems that know when their predictions
+> deserve to be trusted."**
+
+---
+
+## 🚀 What I'm Building
+
+### 🧠 Self-Aware AI
+
+My current flagship project is **Self-Aware AI** — an
+uncertainty-aware machine learning system designed to evaluate
+how reliable its own predictions are.
+
+Instead of simply asking:
+
+> **"What is the prediction?"**
+
+the system also asks:
+
+> **"How confident should I be in this prediction?"**
+
+### 🔍 The system combines
+
+- 🎯 Prediction Confidence
+- 📊 Prediction Entropy
+- 🔄 MC-Dropout Stability
+- 🧮 Learned Reliability
+- 🌡️ Temperature Scaling
+- ⚠️ Uncertainty Detection
+- 🚦 TRUST / UNCERTAIN / UNKNOWN decisions
+
+### 📈 Current Results
+
+| Metric | Result |
+|---|---:|
+| 🧪 MNIST Test Accuracy | **98.89%** |
+| 🎯 Calibrated Accuracy | **98.20%** |
+| 📏 Calibration ECE | **0.97%** |
+| 🔬 High-Confidence Predictions | **481** |
+| ❌ High-Confidence Errors | **0** |
+
+> The goal isn't to make AI blindly confident.
+> The goal is to make AI **more aware of when confidence may be unreliable.**
+
+🔗 **[View Self-Aware AI →](https://github.com/YOUR_USERNAME/Self-Aware-AI)**
+
+---
+
+## ⚙️ Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,sql" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🧪 Featured Project
+
+<div align="center">
+
+### 🤖 Self-Aware AI
+
+**Can an AI recognize when it should NOT trust itself?**
+
+<br>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500">
+
+<br><br>
+
+[![Repository](https://img.shields.io/badge/View%20Project-Self--Aware--AI-00F7FF?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/Self-Aware-AI)
+
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=nakul-jm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/nakul-jm/nakul-jm/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakul-jm/nakul-jm/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nakul-jm/nakul-jm/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nakul-jm/nakul-jm/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+## 🐍 Contribution Graph
 
-###
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+Artificial Intelligence     ███████████████████░  95%
+Machine Learning             ██████████████████░░  90%
+Deep Learning                ████████████████░░░░  80%
+Computer Vision              ███████████████░░░░░  75%
+Data Structures              ██████████████░░░░░░  70%
+Software Engineering         ████████████░░░░░░░░  60%
